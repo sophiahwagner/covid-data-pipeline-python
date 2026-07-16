@@ -32,7 +32,8 @@ Real government data often has reporting gaps and this dataset was no exception:
 - These findings shaped the final column and time-window choices above.
 
 ## Key Findings
-
+- Out of the four states surveyed (AZ, CA, FL, and NY) California had the highest total number of COVID-19 cases in 2021 for the population under 18 years old (with 5,412,140 cases), but Arizona had the highest cumulative incidence rate per population, with about 185 cases per 1000 people.
+- New York had the lowest cumulative incidence rate of the four, with only 95 cases per 1000 people. 
 
 ## Requirements
 
