@@ -36,7 +36,7 @@ Real government data often has reporting gaps and this dataset was no exception:
 - New York had the lowest cumulative incidence rate of the four, with only 95 cases per 1000 people.
 ![Cases per 1000 in states of interest](bar-chart.png)
 - The graph below indicates that total U.S COVID cases increased steadily during the first several months of 2021 before plateauing from May through August. The case count spiked again in September, continuing a steady increase for the rest of the year.
-![COVID 2021 total U.S. cases over time](time-series.png)
+![COVID 2021 total U.S. cases over time](time-series2.png)
 
 ## Requirements
 
