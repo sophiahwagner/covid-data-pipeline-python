@@ -34,7 +34,7 @@ Real government data often has reporting gaps and this dataset was no exception:
 ## Key Findings
 - Out of the four states surveyed (AZ, CA, FL, and NY) California had the highest total number of COVID-19 cases in 2021 for the population (with 5,412,140 cases), but Arizona had the highest cumulative incidence rate per population, with about 185 cases per 1000 people.
 - New York had the lowest cumulative incidence rate of the four, with only 95 cases per 1000 people.
-![Cases per 1000 in states of interest](bar-chart.png)
+![Cases per 1000 in states of interest](bar-chart2.png)
 - The graph below indicates that total U.S COVID cases increased steadily during the first several months of 2021 before plateauing from May through August. The case count spiked again in September, continuing a steady increase for the rest of the year.
 ![COVID 2021 total U.S. cases over time](time-series2.png)
 
