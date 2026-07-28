@@ -44,7 +44,7 @@ sns.set_theme(style = 'darkgrid')
 sns.color_palette('rocket')
 
 # Create a time series chart for total U.S. COVID cases in 2021
-plt.figure(figsize = (10, 6))
+plt.figure(figsize = (8, 5))
 time_series = sns.lineplot(data = covid_2021, x='date_updated',y='tot_cases')
 plt.title('Total U.S. COVID-19 Cases in 2021', fontsize = 14, weight = 'bold')
 plt.xlabel('Date')
